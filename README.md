@@ -1,5 +1,7 @@
 # Iceborn Crown Tracker
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imkyril)
+
 An in-game crown display for **Monster Hunter World: Iceborne**. Check a spawn before combat using a notice with the monster’s name and crown category.
 
 ![Mini gold Kulu-Ya-Ku and large silver Great Jagras notices. HUD preview with sample data.](assets/readme/hud-detail.png)
